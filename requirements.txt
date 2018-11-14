@@ -1,0 +1,9 @@
+python-dotenv
+tweepy
+nltk
+selenium
+konlpy
+JPype1
+matplotlib
+pandas
+numpy
