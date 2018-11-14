@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3acc55f-0e4e-4604-a98a-aa35c45bf864" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twitter-crawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter-crawling.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -217,7 +216,7 @@
           <entry key="dummy" value="11" />
           <entry key="json" value="42" />
           <entry key="ksa-server" value="5" />
-          <entry key="md" value="273" />
+          <entry key="md" value="278" />
           <entry key="py" value="3052" />
           <entry key="tsv" value="53" />
           <entry key="txt" value="4" />
@@ -226,7 +225,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="42" />
-          <entry key="Markdown" value="273" />
+          <entry key="Markdown" value="278" />
           <entry key="PLAIN_TEXT" value="15" />
           <entry key="Python" value="3345" />
           <entry key="R" value="34" />
@@ -235,14 +234,17 @@
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="twitter-sentiment-analysis-examples" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="22" column="184" selection-start-line="22" selection-start-column="184" selection-end-line="22" selection-end-column="184" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -588,9 +590,9 @@
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1687966" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49944752" visible="true" weight="0.1687966" />
+      <window_info id="Structure" order="1" sideWeight="0.5005525" side_tool="true" visible="true" weight="0.1687966" />
+      <window_info id="Favorites" order="2" sideWeight="0.50088495" side_tool="true" weight="0.1687966" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.32920355" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3283186" />
@@ -603,7 +605,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32920355" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.19911504" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.19911504" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32743362" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -740,8 +742,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="184" selection-start-line="22" selection-start-column="184" selection-end-line="22" selection-end-column="184" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor />
         </state>

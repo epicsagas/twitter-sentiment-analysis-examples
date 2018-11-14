@@ -2,9 +2,9 @@
 
 These examples require Python 3.6 To install prerequisites.
 
-## Twitter authenticate
-
 ```pip install -r requirements.txt```
+
+## Twitter authenticate
 
 You will need to authenticate with Twitter to use these scripts. To do so, sign up for developer credentials:
 
