@@ -128,14 +128,9 @@ def crawling(pages,keyword,since,until):
         driver.quit()
 
 if __name__ == '__main__':
-    # pages = input('pages (scroll pages number ? ')
-    # keyword = input('keyword ? ')
-    # since = input('since (yyyy-mm-dd) ? ')
-    # until = input('until (yyyy-mm-dd) ? ')
-
-    pages = 30
-    keyword = "양진호"
-    since = "2018-10-30"
-    until = "2018-11-08"
+    pages = input('pages (scroll pages number ? ')
+    keyword = input('keyword ? ')
+    since = input('since (yyyy-mm-dd) ? ')
+    until = input('until (yyyy-mm-dd) ? ')
 
     crawling(pages,keyword,since,until)
