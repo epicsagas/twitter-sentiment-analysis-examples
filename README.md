@@ -1,4 +1,4 @@
-#Python Twitter Korean Sentiment Analysis Example
+# Python Twitter Korean Sentiment Analysis Example
 
 These examples require Python 3.6 To install prerequisites.
 
